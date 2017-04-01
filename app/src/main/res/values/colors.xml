@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    Dark Grey : #363636
+Medium Grey: #959595
+Light Grey: #f7f7f7
+Pink : #d67462
+Red: #ed1c24
+Orange: #f7941d
+Green: #14de73
+Blue: #00aeef
+White: #ffffff
+
+    -->
+
+    <item name="color_app_theme" type="color">#0F5BA7</item>
+    <item name="color_white" type="color">#FFFFFF</item>
+    <item name="color_black" type="color">#000000</item>
+
+    <item name="color_dark_grey" type="color">#363636</item>
+    <item name="color_medium_grey" type="color">#959595</item>
+    <item name="color_light_grey" type="color">#f7f7f7</item>
+    <item name="color_pink" type="color">#d67462</item>
+    <item name="color_red" type="color">#ed1c24</item>
+    <item name="color_orange" type="color">#f7941d</item>
+    <item name="color_green" type="color">#14de73</item>
+    <item name="color_blue" type="color">#00aeef</item>
+
+    <item name="color_text_body" type="color">#363636</item>
+
+    <item name="color_priority" type="color">#ed1c24</item>
+
+    <item name="color_text_name" type="color">#d67462</item>
+
+    <item name="color_text_light_gray" type="color">#959595</item>
+
+    <!-- -->
+    <item name="color_list_divider" type="color">#CACACA</item>
+
+    <item name="color_background" type="color">#E6E7E9</item>
+    <item name="color_toolbar" type="color">#2A373E</item>
+
+    <item name="color_button" type="color">#CE4535</item>
+
+    <item name="color_bg_all" type="color">#ABB0B4</item>
+    <item name="color_bg_customer" type="color">#B01533</item>
+    <item name="color_bg_supervisor" type="color">#CE4535</item>
+    <item name="color_bg_technician" type="color">#872B51</item>
+    <item name="red" type="color">#FF0000</item>
+    <item name="orange" type="color">#FFA500</item>
+    <item name="green" type="color">#00FA9A</item>
+    <item name="gray" type="color">#890c262f</item>
+
+    <color name="ColorPrimary">#00897B</color>
+    <color name="ColorPrimaryDark">#00695C</color>
+    <color name="tabsScrollColor">@color/color_app_theme</color>
+
+</resources>

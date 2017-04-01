@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!--  Title table -->
+
+        <TableLayout
+            android:id="@+id/tlTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:shrinkColumns="0"
+            android:stretchColumns="1"
+            >
+
+            <TableRow
+                android:id="@+id/trTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:weightSum="1"
+               >
+
+                <TextView
+                    android:id="@+id/txtId"
+                    style="@style/BodyTextViewStyle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:layout_column="0"
+                    android:paddingLeft="@dimen/activity_horizontal_margin"
+                    android:textColor="@color/color_text_light_gray"
+                    android:text="Task #1"
+                    android:textStyle="bold">
+                </TextView>
+
+                <TextView
+                    android:id="@+id/txtName"
+                    style="@style/BodyTextViewStyle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:layout_column="1"
+                    android:ellipsize="end"
+                    android:gravity="right"
+                    android:text="John Steve | Bangalore"
+                    android:textColor="@color/color_text_name"
+                    android:textStyle="bold" />
+
+            </TableRow>
+
+
+            <TableRow
+                android:id="@+id/trDesc"
+                android:weightSum="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/thumb_img_margin"
+                >
+
+                <TextView
+                    android:id="@+id/txtDesc"
+                    style="@style/BodyTextViewStyle"
+                    android:singleLine="false"
+                    android:lines="2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.9"
+                    android:layout_column="0"
+                    android:textColor="@color/color_text_light_gray"
+                    android:paddingLeft="@dimen/activity_horizontal_margin"
+                    android:text="fsdf fdsf fsdfsdf  fsdfsdfs  sdfsd fdfsd fsdfs fsfsd"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imgLocation"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:layout_column="1"
+                    android:layout_marginLeft="10dp"
+                    android:layout_gravity="center_vertical|right"
+                    android:src="@drawable/location_big">
+                </ImageView>
+            </TableRow>
+
+            <!--  Status Table -->
+            <TableLayout
+                android:id="@+id/tlTable01"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#CCC"
+                android:layout_margin="@dimen/activity_vertical_margin"
+                android:paddingTop="1dp"
+                android:stretchColumns="0,1,2">
+
+                <TableRow
+                    android:background="#CCC"
+                    android:gravity="center_vertical"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp">
+
+                    <TextView android:id="@+id/txtPriorityTitle"
+                        android:layout_marginLeft="1dp"
+                        android:gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:text="Priority"
+                        android:textColor="@color/color_text_light_gray"
+                        android:textStyle="bold" />
+
+                    <TextView android:id="@+id/txtStatusTitle"
+                        android:layout_marginLeft="1dp"
+                        android:background="#FFF"
+                        android:gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:text="Status"
+                        android:textColor="@color/color_text_light_gray"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txtIssueDate"
+                        android:layout_marginLeft="1dp"
+                        android:gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:text="1/11/2015"
+                        android:textColor="@color/color_dark_grey"
+                        android:textStyle="bold" />
+                </TableRow>
+
+                <TableRow
+                    android:background="#CCC"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp">
+
+                    <TextView
+                        android:id="@+id/txtPriority"
+                        android:layout_marginLeft="1dp"
+                        android:gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:textAllCaps="true"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txtStatus"
+                        android:layout_marginLeft="1dp"
+                        android:gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:textColor="@color/color_dark_grey"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/txtPlannedTime"
+                        android:layout_marginLeft="1dp"
+                        android:gravity="center_horizontal"
+                        android:textColor="@color/color_dark_grey"
+                        android:padding="5dp"
+                        android:text="1:45 AM"
+                        android:textStyle="bold" />
+                </TableRow>
+            </TableLayout>
+        </TableLayout>
+    </android.support.v7.widget.CardView>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@color/color_bg_supervisor" />
+</LinearLayout>

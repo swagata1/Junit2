@@ -1,0 +1,86 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+
+        <item name="android:background">@color/color_white</item>
+        <item name="android:textColor">@color/color_black</item>
+
+    </style>
+
+    <!-- Title TextView Style -->
+    <style name="TitleTextViewStyle" parent="android:style/Widget.TextView">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/color_white</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <!-- Edittext Style -->
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/color_black</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColorHint">@color/color_black</item>
+
+    </style>
+
+    <!-- Button Style -->
+    <style name="SubmitButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">@drawable/button_bg</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/color_white</item>
+
+    </style>
+
+    <!-- Body TextView Style -->
+    <style name="BodyTextViewStyle" parent="android:style/Widget.TextView">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/color_text_body</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="iconGenText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/color_black</item>
+    </style>
+
+    <!-- Tab style -->
+    <style name="AppThemeTab" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/ColorPrimary</item>
+        <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
+    </style>
+
+    <style name="AlertDialogCustom" parent="@android:style/Theme.Dialog">
+        <item name="android:textColor">@color/color_black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+    <style name="DialogRadioButton" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textColor">@color/color_black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:drawableRight">@drawable/custom_btn_radio</item>
+    </style>
+
+
+</resources>

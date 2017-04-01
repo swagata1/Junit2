@@ -1,0 +1,41 @@
+-injars 'D:\DevOpsPrac\app\build\intermediates\transforms\jarMerging\androidTest\debug\jars\1\1f\combined.jar'
+-outjars 'D:\DevOpsPrac\app\build\intermediates\multi-dex\androidTest\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\m1036063\AppData\Local\Android\Sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'D:\DevOpsPrac\app\build\intermediates\multi-dex\androidTest\debug\components.flags'
+
+
+-keep class android.test.InstrumentationTestRunner {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

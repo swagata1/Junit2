@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mindtree.fsmmindtree" >
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <permission android:name="com.mindtree.fsmmindtree.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+    <uses-permission android:name="com.mindtree.fsmmindtree.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".view.LoginActivity"
+            android:label="@string/app_name"
+
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--  Register Activity -->
+        <activity android:name=".BarcodeScanner"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+
+        <!--  Register Activity -->
+        <activity android:name=".view.RegisterActivity"
+            android:launchMode="singleTask"
+            android:taskAffinity=""
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait" />
+
+        <!-- Task List Activity -->
+        <activity android:name=".view.TaskListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"/>
+
+        <!--  Task Details Activity -->
+        <activity android:name=".view.TaskDetailsActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+
+        <!--  Tecnhician List Activity -->
+        <activity android:name=".view.TechnicianListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+
+        <!--  Location Activity -->
+        <activity android:name=".view.LocationActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+
+        <!--  Show Route  Activity -->
+        <activity android:name=".view.ShowRouteActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+
+        <!-- Push receiver. -->
+        <receiver
+            android:name="com.mindtree.fsmmindtree.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.globaldesigns.valetparking" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.mindtree.fsmmindtree.GcmMessageHandler" />
+        <service android:name="com.mindtree.fsmmindtree.GCMIntentService" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyD4GFRPM4Ce3dPiM13MfjG85lOuQVW8yhs" />
+    </application>
+
+</manifest>

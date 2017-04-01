@@ -1,0 +1,2 @@
+com/mindtree/fsmmindtree/Apptest1.class
+com/android/test/runner/MultiDexTestRunner.class

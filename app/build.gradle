@@ -1,0 +1,81 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.mindtree.fsmmindtree"
+        minSdkVersion 19
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+
+    }
+    //  tasks.withType(Test){
+    /*testLogging {
+            events "passed", "skipped", "failed", "standardOut", "standardError"
+        }*/
+    //  testLogging{
+    //  exceptionFormat 'full'
+    //  showCauses true
+    // showExceptions true
+    // showStackTraces true
+    // showStandardStreams true
+    // }
+    testOptions {
+        unitTests.returnDefaultValues = true
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile files('libs/lib.jar')
+    compile files('libs/zbar.jar')
+
+    compile 'com.android.support:appcompat-v7:23.0.0'
+    compile 'com.android.support:cardview-v7:23.0.+'
+    compile 'com.android.support:recyclerview-v7:23.0.+'
+    compile "com.google.android.gms:play-services:8.4.+"
+    compile 'com.google.android.gms:play-services-location:8.4.+'
+    compile 'com.google.maps.android:android-maps-utils:0.3+'
+
+    //  Snack bar
+    compile 'com.android.support:design:23.0.+'
+
+    //  REST Client library
+    compile 'com.squareup.retrofit:retrofit:1.9.0'
+
+    //  gson library
+    compile 'com.google.code.gson:gson:2.3'
+//    compile 'org.parceler:parceler:0.2.13'
+
+    //  image loading library
+    compile 'com.squareup.picasso:picasso:2.3.3'
+
+    //  rxjava
+    compile 'io.reactivex:rxjava:1.0.4'
+
+    //  rxandroid
+    compile 'io.reactivex:rxandroid:0.24.0'
+
+    //  Butterknife
+    compile 'com.jakewharton:butterknife:7.0.1'
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.mockito:mockito-core:1.10.19'
+    compile 'com.android.support.test:runner:0.5'
+    compile 'com.android.support:multidex:1.0.1'
+}
+

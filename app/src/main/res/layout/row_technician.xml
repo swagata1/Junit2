@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/imgSupervisor"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@color/color_bg_technician"
+        android:src="@drawable/icon_technician" />
+
+    <TextView
+        android:id="@+id/txtTechnicianName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imgSupervisor"
+        android:layout_marginLeft="10dp"
+        android:background="#F6F6F6"
+        android:textSize="20sp"
+        android:text="Task #1"></TextView>
+
+    <TextView
+        android:id="@+id/txtTechnicianSkill"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imgSupervisor"
+        android:layout_below="@id/txtTechnicianName"
+        android:layout_marginLeft="10dp"
+        android:background="#F6F6F6"
+        android:textSize="16sp"
+        android:text="Plumber"></TextView>
+
+</RelativeLayout>

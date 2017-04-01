@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_on_technician.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\background_on_technician.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_off.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\btn_radio_off.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_g.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\icon_g.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\status_completed.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\status_completed.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector.xml",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_off_all.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\background_off_all.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_big.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\location_big.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_on_customer.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\background_on_customer.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_done.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\ico_done.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\textbox.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_small.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\location_small.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\barcode.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\barcode.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\status_in_progress.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\status_in_progress.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_gray.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\location_gray.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_logo.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\background_logo.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_unselected.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\rating_unselected.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\technician_available.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\technician_available.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\time.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_photo.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\add_photo.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_big.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\call_big.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_on.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\btn_radio_on.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round_white.xml",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\button_round_white.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\divider.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\status_incompleted.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\status_incompleted.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_on_supervisor.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\background_on_supervisor.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\down_arrow.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round_red.xml",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\button_round_red.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_customer.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\icon_customer.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_selected.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\rating_selected.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\curved_background.xml",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\curved_background.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\technician_unavailable.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\technician_unavailable.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_technician.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\icon_technician.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_forgot_password.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\checkbox_forgot_password.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_radio.xml",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\custom_btn_radio.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_done_h.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\ico_done_h.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_small.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\call_small.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\username_password.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\username_password.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fb.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\icon_fb.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_supervisor.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\icon_supervisor.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\date.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\date.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hamburger.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\hamburger.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customdrawablecheckbox.xml",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\customdrawablecheckbox.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_screen.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\background_screen.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\button_login.png"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filter.png",
+        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\drawable\\filter.png"
+    }
+]
