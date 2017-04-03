@@ -1,0 +1,108 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical"
+    tools:context=".view.register.RegisterActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@color/color_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView android:id="@+id/txtTitle"
+            style="@style/TitleTextViewStyle"
+            android:text="@string/title_register"
+            android:gravity="center_horizontal"
+            />
+
+    </android.support.v7.widget.Toolbar>
+
+    <EditText android:id="@+id/edtFirstname" android:hint="@string/hint_firstname"
+        style="@style/EditTextStyle"/>
+
+    <EditText android:id="@+id/edtLastname" android:hint="@string/hint_lastname"
+        style="@style/EditTextStyle"/>
+
+    <EditText android:id="@+id/edtEmail" android:hint="@string/hint_email"
+        android:inputType="textEmailAddress"
+        style="@style/EditTextStyle"/>
+
+    <EditText android:id="@+id/edtMobile" android:hint="@string/hint_mobile"
+        android:inputType="phone"
+        style="@style/EditTextStyle"/>
+
+    <EditText android:id="@+id/edtUsername" android:hint="@string/hint_username"
+        style="@style/EditTextStyle"/>
+
+    <EditText android:id="@+id/edtPassword" android:hint="@string/hint_password" android:inputType="textPassword"
+        style="@style/EditTextStyle"/>
+
+    <!--
+    <Spinner android:id="@+id/spnUserType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:popupBackground="@android:color/transparent"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:prompt="@string/prompt_user_type"
+        />
+    -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:padding="5dp"
+        android:textStyle="bold"
+        android:background="@android:color/transparent"
+        android:text="@string/prompt_user_type"
+        android:textSize="16sp"
+        />
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent">
+        <RadioGroup
+            android:id="@+id/radioGrpUserType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:orientation="horizontal"
+            android:background="@android:color/transparent">
+
+            <RadioButton
+                android:id="@+id/radioSupervisor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/user_supervisor"
+                android:layout_marginRight="10dp"
+                android:textSize="16sp"
+                android:textColor="@color/color_black" />
+
+            <RadioButton
+                android:id="@+id/radioTechnician"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/radioSupervisor"
+                android:textColor="@color/color_black"
+                android:textSize="16sp"
+                android:text="@string/user_technician" />
+
+            <RadioButton
+                android:id="@+id/radioCustomer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/radioTechnician"
+                android:textColor="@color/color_black"
+                android:textSize="16sp"
+                android:text="@string/user_customer" />
+
+        </RadioGroup>
+    </HorizontalScrollView >
+    <Button android:id="@+id/btnRegister" android:text="@string/btn_register" style="@style/SubmitButtonStyle"/>
+
+</LinearLayout>

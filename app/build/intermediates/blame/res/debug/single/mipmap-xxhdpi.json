@@ -1,6 +1,6 @@
 [
     {
-        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "D:\\DevOpsPrac\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

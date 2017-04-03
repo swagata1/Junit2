@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_toolbar"
+        android:minHeight="?attr/actionBarSize">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:orientation="vertical"
+           >
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="@android:color/transparent"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:id="@+id/txtTitle"
+                style="@style/TitleTextViewStyle"
+                android:gravity="center_horizontal"
+                android:padding="1dp"
+                android:text="@string/title_login"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+
+    <TextView android:id="@+id/txtTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/transparent"
+        android:gravity="center_horizontal"
+        android:text="Home Screen"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
+

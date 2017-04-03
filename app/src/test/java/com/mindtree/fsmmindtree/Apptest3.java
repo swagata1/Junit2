@@ -34,6 +34,7 @@ public class Apptest3 {
         Mockito.doNothing().when(mockLogInPresenter).callApi();
 
         Mockito.doCallRealMethod().when(mockLogInPresenter).loginUser();
+        mockLogInPresenter.loginUser();
 
     }
 

@@ -1,0 +1,221 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_toolbar"
+        android:minHeight="?attr/actionBarSize">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:orientation="vertical"
+           >
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="@android:color/transparent"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:id="@+id/txtTitle"
+                style="@style/TitleTextViewStyle"
+                android:gravity="center_horizontal"
+                android:padding="1dp"
+                android:text="@string/title_login"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="3">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/color_bg_all"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/imgSupervisor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/color_bg_all"
+                android:src="@drawable/icon_supervisor" />
+
+            <TextView
+                android:id="@+id/txtSupervisor"
+                style="@style/TitleTextViewStyle"
+                android:gravity="center_horizontal"
+                android:padding="1dp"
+                android:text="@string/user_supervisor"
+                android:textColor="@color/color_white"
+                android:textSize="18sp"
+              />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/color_bg_all"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/imgTechnican"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_weight="1"
+                android:background="@color/color_bg_all"
+                android:src="@drawable/icon_technician" />
+
+            <TextView
+                android:id="@+id/txtTechnician"
+                style="@style/TitleTextViewStyle"
+                android:gravity="center_horizontal"
+                android:padding="1dp"
+                android:text="@string/user_technician"
+                android:textColor="@color/color_white"
+                android:textSize="18sp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/color_bg_all"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/imgCustomer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/color_bg_all"
+                android:src="@drawable/icon_customer" />
+
+            <TextView
+                android:id="@+id/txtCustomer"
+                style="@style/TitleTextViewStyle"
+                android:gravity="center_horizontal"
+                android:padding="1dp"
+                android:text="@string/user_customer"
+                android:textColor="@color/color_white"
+                android:textSize="18sp"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtRoleMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/transparent"
+        android:gravity="center_horizontal"
+        android:text="@string/msg_role"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/divider" />
+
+    <EditText
+        android:id="@+id/edtUsername"
+        style="@style/EditTextStyle"
+        android:hint="@string/hint_username"
+        />
+
+    <EditText
+        android:id="@+id/edtPassword"
+        style="@style/EditTextStyle"
+        android:hint="@string/hint_password"
+        android:inputType="textPassword" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@android:color/transparent">
+
+        <CheckBox
+            android:id="@+id/chkRemember"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@android:color/transparent"
+            android:text="@string/chk_remember"
+            android:textColor="@color/color_black" />
+
+        <TextView
+            android:id="@+id/txtForgotPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@android:color/transparent"
+            android:paddingTop="7dp"
+            android:text="Forgot Password"
+            android:textColor="@color/color_black"
+
+            />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnLogin"
+        style="@style/SubmitButtonStyle"
+        android:text="@string/btn_login"
+       />
+
+    <TextView
+        android:id="@+id/txtRegMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:gravity="center_horizontal"
+        android:text="Don't have an account?"
+        android:textColor="@color/color_black"
+        android:textSize="16dp"
+        />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:text="@string/btn_register"
+        android:textColor="@color/color_black"
+        android:textSize="18dp"
+        android:textStyle="bold"
+       />
+
+</LinearLayout>
+

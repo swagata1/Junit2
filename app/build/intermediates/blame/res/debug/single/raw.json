@@ -1,6 +1,6 @@
 [
     {
-        "merged": "D:\\DevOpsPrac\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
-        "source": "D:\\DevOpsPrac\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
     }
 ]

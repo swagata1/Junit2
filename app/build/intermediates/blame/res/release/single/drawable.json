@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/logo.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/textbox.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/textbox.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_settings_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/technician_available.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/technician_available.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/ico_done_h.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/ico_done_h.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/barcode.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/barcode.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/button_round_red.xml",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/button_round_red.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/rating_selected.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/rating_selected.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/icon_technician.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/icon_technician.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_pause_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/call_big.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/call_big.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/status_incompleted.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/status_incompleted.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/ic_launcher.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_cast_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/selector.xml",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/selector.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/background_logo.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/background_logo.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/time.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/time.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/icon_fb.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/icon_fb.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_play_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/call_small.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/call_small.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/ico_done.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/ico_done.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/technician_unavailable.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/technician_unavailable.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/custom_btn_radio.xml",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/custom_btn_radio.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/checkbox_forgot_password.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/checkbox_forgot_password.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/status_in_progress.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/status_in_progress.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/down_arrow.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/down_arrow.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_settings_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/background_on_supervisor.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/background_on_supervisor.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/filter.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/filter.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/location_gray.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/location_gray.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/background_off_all.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/background_off_all.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/rating_unselected.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/rating_unselected.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/button_login.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/button_login.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/divider.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/divider.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/location_small.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/location_small.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/customdrawablecheckbox.xml",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/customdrawablecheckbox.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/add_photo.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/add_photo.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/curved_background.xml",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/curved_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/background_screen.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/background_screen.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/hamburger.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/hamburger.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/btn_radio_off.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/btn_radio_off.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/back.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/status_completed.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/status_completed.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/button_bg.xml",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/button_bg.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/background_on_technician.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/background_on_technician.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/icon_supervisor.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/icon_supervisor.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/btn_radio_on.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/btn_radio_on.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/location_big.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/location_big.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_pause_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_cast_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/date.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/date.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/camera.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/camera.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/icon_g.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/icon_g.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/background_on_customer.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/background_on_customer.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/mr_ic_play_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/username_password.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/username_password.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/ubuntu/Junit2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/icon_customer.png",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/icon_customer.png"
+    },
+    {
+        "merged": "/home/ubuntu/Junit2/app/build/intermediates/res/merged/release/drawable/button_round_white.xml",
+        "source": "/home/ubuntu/Junit2/app/src/main/res/drawable/button_round_white.xml"
+    }
+]

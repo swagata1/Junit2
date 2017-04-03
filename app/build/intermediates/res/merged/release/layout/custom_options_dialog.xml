@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="250dp"
+    android:layout_height="wrap_content"
+    android:background="@color/color_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView android:id="@+id/txtDialogTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textSize="18sp"
+        android:textColor="@color/color_white"
+        android:background="@color/color_app_theme"
+        android:text="Custom dialog"
+        />
+
+    <RadioGroup
+        android:id="@+id/radioGrpCustomOptions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <RadioButton
+            android:id="@+id/radioOption1"
+            style="@style/DialogRadioButton" />
+
+        <RadioButton
+            android:id="@+id/radioOption2"
+            style="@style/DialogRadioButton" />
+
+        <RadioButton
+            android:id="@+id/radioOption3"
+            style="@style/DialogRadioButton" />
+
+        <RadioButton
+            android:id="@+id/radioOption4"
+            style="@style/DialogRadioButton"/>
+    </RadioGroup>
+</LinearLayout>
+
